@@ -8,7 +8,7 @@ elif discr==0:
     x=-b/(2*a)
     print("odin koren",x)
 else:
-    x1=(-b+sqrt(discr)/(2*a))
+    x1=(-b+sqrt(discr))/(2*a)
     print("odin koren",x1)
-    x2=(-b-sqrt(discr)/(2*a))
+    x2=(-b-sqrt(discr))/(2*a)
     print("vtoroy koren",x2)
